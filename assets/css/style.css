@@ -7039,7 +7039,8 @@ img {
   color: #969fab;
 }
 
-.contact-pg-section :#ffcc00;
+.contact-pg-section {
+  color: #ffcc00;;
   height: 357px;
   border-radius: 10px;
 }
